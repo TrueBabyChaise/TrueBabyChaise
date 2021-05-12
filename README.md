@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a student at EPITECH Nantes.
+
+I'm a C/C++/Python/PHP/JS developer, but I'm also learning many others languages.
+
+I’m currently working on python game and a discord bot.
+
+How to reach me: [Askou](https://twitter.com/MrDead44)
+
 <!--
 **TrueBabyChaise/TrueBabyChaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
