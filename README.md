@@ -9,7 +9,7 @@ I’m currently working on python game and a discord bot.
 How to reach me: [Askou](https://twitter.com/MrDead44)
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@TrueBabyChaise&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=synthwave"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerueBabyChaise&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=synthwave"></a>
 </p>
 <!--
 **TrueBabyChaise/TrueBabyChaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
