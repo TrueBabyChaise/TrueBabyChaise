@@ -4,7 +4,7 @@ I'm a student at EPITECH Nantes.
 
 I'm a C/C++/Python/PHP/JS developer, but I'm also learning many others languages.
 
-I’m currently working on virtual library. Using ISBN ! Need it for personnal usage anyway
+I’m currently working on virtual library. Using ISBN ! Need it for personnal usage anyway (I'm focused on coding a discord bot, don't ask me why)
 
 How to reach me: [Askou](https://twitter.com/BabyAskou)
 
