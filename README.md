@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a student at EPITECH Nantes.
-
 I'm a C/C++/Python/PHP/JS developer, but I'm also learning many others languages.
 
 I'm open for anything, you would find fun to do
+
+I'll probably start modding FFXIV ! 
 
 How to reach me: [Askou](https://twitter.com/BabyAskou)
 
